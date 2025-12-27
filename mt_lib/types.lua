@@ -1,0 +1,5 @@
+---@class NotifyData
+---@field title string
+---@field description string
+---@field type 'success'|'error'|'info'|'warning'
+---@field duration number
